@@ -1,0 +1,10 @@
+https://nodejs.org/en/
+https://www.mongodb.com/download-center/community
+
+To install mongo driver for node
+C:\Users\Your Name>npm install mongodb
+
+npm install jQuery
+npm install mongodb
+npm install jsdom
+
