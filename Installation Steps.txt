@@ -8,3 +8,8 @@ npm install jQuery
 npm install mongodb
 npm install jsdom
 
+npm install --save window
+
+npm install bootstrap
+//Dependency of bootstrap
+npm install popper.js --save
